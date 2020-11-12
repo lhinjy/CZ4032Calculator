@@ -1,6 +1,7 @@
-# CZ4032Calculator
+#Data Analytics & Mining Calculator for Recommender Systems
 
-Calculator for Recommender Systems. Cause i decided to spend 1 hour to make this instead of spending 2 mins on a GC (┛◉Д◉)┛彡┻━┻ 
+
+Cause i decided to spend 1 hour to make this instead of spending 2 mins on a GC (┛◉Д◉)┛彡┻━┻ 
 
 CF.py: 
 For collaborative filltering. Works for both item-item, and user-user.
